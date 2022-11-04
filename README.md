@@ -44,6 +44,11 @@ Hence prefer learning new technologies through development.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-fatao-abdulrahman-8ab609194)
 
+---
+### :bagde: My Bagdes:
+[![@fatao1's Holopin board](https://holopin.me/fatao1)](https://holopin.io/@fatao1)
+
+
 
 ---
 
